@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SajidPrac</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="welcome">Welcome</string>
+    <string name="login">Login</string>
+    <string name="exchange_rates">Exchange Rates</string>
+    <string name="search">SEARCH</string>
+</resources>
